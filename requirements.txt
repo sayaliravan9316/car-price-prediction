@@ -1,4 +1,4 @@
-np=2.4.6
-pd=3.0.3
-sklearn=1.9.0
-streamlit=1.58.0
+numpy==2.4.6
+pandas==3.0.3
+scikit-learn==1.9.0
+streamlit==1.58.0
